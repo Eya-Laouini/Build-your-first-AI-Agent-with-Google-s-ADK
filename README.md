@@ -39,6 +39,9 @@ You can run the agent in the terminal for testing or launch the ADK Web UI.
 ## 🖥️ Usage
 Launch Web Interface
 Interact with your agent via a visual chat interface:
+![App Screenshot1](screenshoot3.png)
+![App Screenshot2](screenshoot2.png)
+![App Screenshot3](screenshoot1.png)
 
 ## 📚 Resources & Documentation
 To further explore ADK capabilities, refer to these trusted platforms:
@@ -50,3 +53,6 @@ ADK Doc: https://google.github.io/adk-docs/
 ADK Course: https://codelabs.developers.google.com/onramp/instructions
 
 Learning Path: https://www.skills.google/course_templates/1382
+
+## 🌟 Show your support
+Give a ⭐️ if this project helped you learn ADK!
