@@ -41,7 +41,7 @@ Launch Web Interface
 Interact with your agent via a visual chat interface:
 
 ## 📚 Resources & Documentation
-To further explore ADK and Gemini capabilities, refer to these trusted platforms:
+To further explore ADK capabilities, refer to these trusted platforms:
 
 My Session on Youtube: https://www.youtube.com/watch?v=hIZsbN5LIRw&t=17s
 
